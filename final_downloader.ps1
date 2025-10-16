@@ -6,3 +6,4 @@ $decodedScript = [Text.Encoding]::Unicode.GetString(
 )
 
 Invoke-Expression $decodedScript
+
